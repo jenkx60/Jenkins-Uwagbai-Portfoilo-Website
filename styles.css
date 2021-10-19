@@ -1,5 +1,3 @@
-@media screen and (max-width: 480px) {
-
 body {
     color: #494051;
     margin: 0;
@@ -135,5 +133,4 @@ a:hover {
     background-image: -o-linear-gradient(top, #30E3CD, #2BC4AD);
     border-radius: 20px;
     text-decoration: none;
-}
 }
