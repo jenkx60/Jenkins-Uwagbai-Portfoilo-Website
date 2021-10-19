@@ -1,5 +1,5 @@
 body {
-    color: #40514E;
+    color: #494051;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -48,7 +48,7 @@ a:hover {
 }
 
 .top-container {
-    background-color: #e4f9f5;
+    background-image: url(images/code.jpg);
     position: relative;
     padding-top: 100.5px;
 }
@@ -58,8 +58,9 @@ a:hover {
 }
 
 .bottom-container {
-    background-color: #66BFBF;
+    background-color: #a45dad;
     padding: 50px 0 20px;
+    background-image: url(images/code.jpg);
 }
 
 .skill-row {
